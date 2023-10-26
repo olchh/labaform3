@@ -1,0 +1,28 @@
+D:\Проекты C#\labaform3\labaform3\bin\Debug\labaform3.exe.config
+D:\Проекты C#\labaform3\labaform3\bin\Debug\labaform3.exe
+D:\Проекты C#\labaform3\labaform3\bin\Debug\labaform3.pdb
+D:\Проекты C#\labaform3\labaform3\obj\Debug\labaform3.csproj.AssemblyReference.cache
+D:\Проекты C#\labaform3\labaform3\obj\Debug\labaform3.csproj.SuggestedBindingRedirects.cache
+D:\Проекты C#\labaform3\labaform3\obj\Debug\labaform3.Form1.resources
+D:\Проекты C#\labaform3\labaform3\obj\Debug\labaform3.Otzivi.resources
+D:\Проекты C#\labaform3\labaform3\obj\Debug\labaform3.Properties.Resources.resources
+D:\Проекты C#\labaform3\labaform3\obj\Debug\labaform3.csproj.GenerateResource.cache
+D:\Проекты C#\labaform3\labaform3\obj\Debug\labaform3.csproj.CoreCompileInputs.cache
+D:\Проекты C#\labaform3\labaform3\obj\Debug\labaform3.exe
+D:\Проекты C#\labaform3\labaform3\obj\Debug\labaform3.pdb
+D:\Проекты C#\labaform3\labaform3\obj\Debug\labaform3.Autorizacia.resources
+D:\Проекты C#\labaform3\labaform3\obj\Debug\labaform3.Regictrasia.resources
+C:\Users\arrsc\Source\Repos\LabaForm3\labaform3\bin\Debug\labaform3.exe.config
+C:\Users\arrsc\Source\Repos\LabaForm3\labaform3\bin\Debug\labaform3.exe
+C:\Users\arrsc\Source\Repos\LabaForm3\labaform3\bin\Debug\labaform3.pdb
+C:\Users\arrsc\Source\Repos\LabaForm3\labaform3\obj\Debug\labaform3.csproj.AssemblyReference.cache
+C:\Users\arrsc\Source\Repos\LabaForm3\labaform3\obj\Debug\labaform3.csproj.SuggestedBindingRedirects.cache
+C:\Users\arrsc\Source\Repos\LabaForm3\labaform3\obj\Debug\labaform3.Autorizacia.resources
+C:\Users\arrsc\Source\Repos\LabaForm3\labaform3\obj\Debug\labaform3.Form1.resources
+C:\Users\arrsc\Source\Repos\LabaForm3\labaform3\obj\Debug\labaform3.Otzivi.resources
+C:\Users\arrsc\Source\Repos\LabaForm3\labaform3\obj\Debug\labaform3.Properties.Resources.resources
+C:\Users\arrsc\Source\Repos\LabaForm3\labaform3\obj\Debug\labaform3.Regictrasia.resources
+C:\Users\arrsc\Source\Repos\LabaForm3\labaform3\obj\Debug\labaform3.csproj.GenerateResource.cache
+C:\Users\arrsc\Source\Repos\LabaForm3\labaform3\obj\Debug\labaform3.csproj.CoreCompileInputs.cache
+C:\Users\arrsc\Source\Repos\LabaForm3\labaform3\obj\Debug\labaform3.exe
+C:\Users\arrsc\Source\Repos\LabaForm3\labaform3\obj\Debug\labaform3.pdb
